@@ -37,6 +37,11 @@ We used Juypyter Notebook to scrape full resolution of Mars's Hemispheres alongs
 ![Web_scraping_base_url](Resources/Web_scraping_base_url.png)
 
 
+- The image below is how it looks in mobile mode. This is a partial view because the page is too long to display completely here.
+
+![Mobile](Resources/Mobile.png)
+
+
 
 
 ## Summary
